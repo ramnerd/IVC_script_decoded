@@ -1,0 +1,862 @@
+{
+  "n_segments": 745,
+  "n_sequences": 557,
+  "class_counts": {
+    "proper_name": 447,
+    "title": 191,
+    "commodity": 107
+  },
+  "avg_posteriors": {
+    "commodity": 0.1436241610738255,
+    "title": 0.2563758389261745,
+    "proper_name": 0.6
+  },
+  "seed_evaluation": {
+    "commodity": {
+      "precision_proxy": 1.0,
+      "recall_proxy": 0.8916666666666667,
+      "tp": 107,
+      "pred_count": 107,
+      "seed_count": 120
+    },
+    "title": {
+      "precision_proxy": 0.0,
+      "recall_proxy": 0.0,
+      "tp": 0,
+      "pred_count": 191,
+      "seed_count": 161
+    },
+    "proper_name": {
+      "precision_proxy": 0.738255033557047,
+      "recall_proxy": 0.5254777070063694,
+      "tp": 330,
+      "pred_count": 447,
+      "seed_count": 628
+    }
+  },
+  "representatives": {
+    "commodity": [
+      {
+        "seg_key": "12,75,86",
+        "seg_id": "seg_00136",
+        "freq": 1,
+        "assigned_label": "commodity",
+        "post_commodity": 1.0,
+        "post_title": 0.0,
+        "post_proper_name": 3.6802324548901786e-30
+      },
+      {
+        "seg_key": "121,399",
+        "seg_id": "seg_00138",
+        "freq": 1,
+        "assigned_label": "commodity",
+        "post_commodity": 1.0,
+        "post_title": 0.0,
+        "post_proper_name": 2.111576288856443e-31
+      },
+      {
+        "seg_key": "123,216,256,403",
+        "seg_id": "seg_00140",
+        "freq": 1,
+        "assigned_label": "commodity",
+        "post_commodity": 1.0,
+        "post_title": 0.0,
+        "post_proper_name": 2.6051953312503875e-31
+      },
+      {
+        "seg_key": "123,32,320",
+        "seg_id": "seg_00143",
+        "freq": 1,
+        "assigned_label": "commodity",
+        "post_commodity": 1.0,
+        "post_title": 0.0,
+        "post_proper_name": 1.2390720481476231e-31
+      },
+      {
+        "seg_key": "130,51,336",
+        "seg_id": "seg_00155",
+        "freq": 1,
+        "assigned_label": "commodity",
+        "post_commodity": 1.0,
+        "post_title": 0.0,
+        "post_proper_name": 1.2817896659250035e-31
+      },
+      {
+        "seg_key": "130,51,364",
+        "seg_id": "seg_00156",
+        "freq": 1,
+        "assigned_label": "commodity",
+        "post_commodity": 1.0,
+        "post_title": 0.0,
+        "post_proper_name": 2.0688116295645975e-31
+      },
+      {
+        "seg_key": "14,121",
+        "seg_id": "seg_00161",
+        "freq": 1,
+        "assigned_label": "commodity",
+        "post_commodity": 1.0,
+        "post_title": 0.0,
+        "post_proper_name": 5.6977854022348654e-31
+      },
+      {
+        "seg_key": "15,287,104,97,162",
+        "seg_id": "seg_00172",
+        "freq": 1,
+        "assigned_label": "commodity",
+        "post_commodity": 1.0,
+        "post_title": 0.0,
+        "post_proper_name": 8.990188449839632e-31
+      },
+      {
+        "seg_key": "15,48,398,59",
+        "seg_id": "seg_00174",
+        "freq": 1,
+        "assigned_label": "commodity",
+        "post_commodity": 1.0,
+        "post_title": 0.0,
+        "post_proper_name": 4.6877221720676254e-30
+      },
+      {
+        "seg_key": "15,86",
+        "seg_id": "seg_00175",
+        "freq": 1,
+        "assigned_label": "commodity",
+        "post_commodity": 1.0,
+        "post_title": 0.0,
+        "post_proper_name": 8.938655881494657e-31
+      },
+      {
+        "seg_key": "162,155",
+        "seg_id": "seg_00183",
+        "freq": 1,
+        "assigned_label": "commodity",
+        "post_commodity": 1.0,
+        "post_title": 0.0,
+        "post_proper_name": 2.1115762888564133e-31
+      },
+      {
+        "seg_key": "162,17",
+        "seg_id": "seg_00184",
+        "freq": 1,
+        "assigned_label": "commodity",
+        "post_commodity": 1.0,
+        "post_title": 0.0,
+        "post_proper_name": 2.111576288856443e-31
+      },
+      {
+        "seg_key": "162,403,72",
+        "seg_id": "seg_00201",
+        "freq": 1,
+        "assigned_label": "commodity",
+        "post_commodity": 1.0,
+        "post_title": 0.0,
+        "post_proper_name": 5.582391109956298e-31
+      },
+      {
+        "seg_key": "162,87,245,245,99,54,28,244",
+        "seg_id": "seg_00204",
+        "freq": 1,
+        "assigned_label": "commodity",
+        "post_commodity": 1.0,
+        "post_title": 0.0,
+        "post_proper_name": 1.5883692928259585e-29
+      },
+      {
+        "seg_key": "169,104",
+        "seg_id": "seg_00207",
+        "freq": 1,
+        "assigned_label": "commodity",
+        "post_commodity": 1.0,
+        "post_title": 0.0,
+        "post_proper_name": 2.4304566674661827e-31
+      },
+      {
+        "seg_key": "169,183",
+        "seg_id": "seg_00214",
+        "freq": 1,
+        "assigned_label": "commodity",
+        "post_commodity": 1.0,
+        "post_title": 0.0,
+        "post_proper_name": 2.111576288856443e-31
+      },
+      {
+        "seg_key": "169,194,89,336",
+        "seg_id": "seg_00215",
+        "freq": 1,
+        "assigned_label": "commodity",
+        "post_commodity": 1.0,
+        "post_title": 0.0,
+        "post_proper_name": 5.133476727545052e-31
+      },
+      {
+        "seg_key": "169,293,182,389",
+        "seg_id": "seg_00227",
+        "freq": 1,
+        "assigned_label": "commodity",
+        "post_commodity": 1.0,
+        "post_title": 0.0,
+        "post_proper_name": 4.604079039900977e-30
+      },
+      {
+        "seg_key": "171,121,121",
+        "seg_id": "seg_00233",
+        "freq": 1,
+        "assigned_label": "commodity",
+        "post_commodity": 1.0,
+        "post_title": 0.0,
+        "post_proper_name": 1.3020721075091774e-31
+      },
+      {
+        "seg_key": "171,343,155",
+        "seg_id": "seg_00235",
+        "freq": 1,
+        "assigned_label": "commodity",
+        "post_commodity": 1.0,
+        "post_title": 0.0,
+        "post_proper_name": 1.2390720481476231e-31
+      },
+      {
+        "seg_key": "176,180,175,307,244",
+        "seg_id": "seg_00253",
+        "freq": 1,
+        "assigned_label": "commodity",
+        "post_commodity": 1.0,
+        "post_title": 0.0,
+        "post_proper_name": 8.99018844983976e-31
+      },
+      {
+        "seg_key": "176,330",
+        "seg_id": "seg_00259",
+        "freq": 1,
+        "assigned_label": "commodity",
+        "post_commodity": 1.0,
+        "post_title": 0.0,
+        "post_proper_name": 2.111576288856443e-31
+      },
+      {
+        "seg_key": "176,68,86",
+        "seg_id": "seg_00261",
+        "freq": 1,
+        "assigned_label": "commodity",
+        "post_commodity": 1.0,
+        "post_title": 0.0,
+        "post_proper_name": 3.962375047773256e-31
+      },
+      {
+        "seg_key": "180,149,104",
+        "seg_id": "seg_00263",
+        "freq": 1,
+        "assigned_label": "commodity",
+        "post_commodity": 1.0,
+        "post_title": 0.0,
+        "post_proper_name": 2.0688116295645975e-31
+      },
+      {
+        "seg_key": "180,149,223",
+        "seg_id": "seg_00264",
+        "freq": 1,
+        "assigned_label": "commodity",
+        "post_commodity": 1.0,
+        "post_title": 0.0,
+        "post_proper_name": 2.0688116295645975e-31
+      },
+      {
+        "seg_key": "180,175,252,391",
+        "seg_id": "seg_00266",
+        "freq": 1,
+        "assigned_label": "commodity",
+        "post_commodity": 1.0,
+        "post_title": 0.0,
+        "post_proper_name": 4.604079039900977e-30
+      },
+      {
+        "seg_key": "180,178,89,336",
+        "seg_id": "seg_00268",
+        "freq": 1,
+        "assigned_label": "commodity",
+        "post_commodity": 1.0,
+        "post_title": 0.0,
+        "post_proper_name": 4.548270735946724e-31
+      },
+      {
+        "seg_key": "180,343",
+        "seg_id": "seg_00269",
+        "freq": 1,
+        "assigned_label": "commodity",
+        "post_commodity": 1.0,
+        "post_title": 0.0,
+        "post_proper_name": 2.111576288856443e-31
+      },
+      {
+        "seg_key": "180,54",
+        "seg_id": "seg_00271",
+        "freq": 1,
+        "assigned_label": "commodity",
+        "post_commodity": 1.0,
+        "post_title": 0.0,
+        "post_proper_name": 2.1115762888564133e-31
+      },
+      {
+        "seg_key": "190,89",
+        "seg_id": "seg_00278",
+        "freq": 1,
+        "assigned_label": "commodity",
+        "post_commodity": 1.0,
+        "post_title": 0.0,
+        "post_proper_name": 8.938655881494657e-31
+      }
+    ],
+    "title": [
+      {
+        "seg_key": "110,204",
+        "seg_id": "seg_00126",
+        "freq": 1,
+        "assigned_label": "title",
+        "post_commodity": 0.0,
+        "post_title": 1.0,
+        "post_proper_name": 3.3330390372719727e-31
+      },
+      {
+        "seg_key": "127",
+        "seg_id": "seg_00147",
+        "freq": 1,
+        "assigned_label": "title",
+        "post_commodity": 0.0,
+        "post_title": 1.0,
+        "post_proper_name": 6.926772133249024e-32
+      },
+      {
+        "seg_key": "127,59,87,343",
+        "seg_id": "seg_00148",
+        "freq": 1,
+        "assigned_label": "title",
+        "post_commodity": 0.0,
+        "post_title": 1.0,
+        "post_proper_name": 7.579419720619032e-31
+      },
+      {
+        "seg_key": "127,72",
+        "seg_id": "seg_00149",
+        "freq": 1,
+        "assigned_label": "title",
+        "post_commodity": 0.0,
+        "post_title": 1.0,
+        "post_proper_name": 3.4872524920484455e-31
+      },
+      {
+        "seg_key": "128,327,89,336",
+        "seg_id": "seg_00152",
+        "freq": 1,
+        "assigned_label": "title",
+        "post_commodity": 0.0,
+        "post_title": 1.0,
+        "post_proper_name": 7.008866445529407e-32
+      },
+      {
+        "seg_key": "128,343",
+        "seg_id": "seg_00153",
+        "freq": 1,
+        "assigned_label": "title",
+        "post_commodity": 0.0,
+        "post_title": 1.0,
+        "post_proper_name": 5.083692717890507e-31
+      },
+      {
+        "seg_key": "130,3",
+        "seg_id": "seg_00154",
+        "freq": 1,
+        "assigned_label": "title",
+        "post_commodity": 0.0,
+        "post_title": 1.0,
+        "post_proper_name": 9.755036328635041e-32
+      },
+      {
+        "seg_key": "135,121",
+        "seg_id": "seg_00157",
+        "freq": 1,
+        "assigned_label": "title",
+        "post_commodity": 0.0,
+        "post_title": 1.0,
+        "post_proper_name": 3.0077366413463817e-30
+      },
+      {
+        "seg_key": "135,67",
+        "seg_id": "seg_00158",
+        "freq": 1,
+        "assigned_label": "title",
+        "post_commodity": 0.0,
+        "post_title": 1.0,
+        "post_proper_name": 3.4872524920484455e-31
+      },
+      {
+        "seg_key": "135,89,336",
+        "seg_id": "seg_00159",
+        "freq": 1,
+        "assigned_label": "title",
+        "post_commodity": 0.0,
+        "post_title": 1.0,
+        "post_proper_name": 4.42320126629247e-31
+      },
+      {
+        "seg_key": "149,130,51,387",
+        "seg_id": "seg_00167",
+        "freq": 1,
+        "assigned_label": "title",
+        "post_commodity": 0.0,
+        "post_title": 1.0,
+        "post_proper_name": 1.4000402184853355e-31
+      },
+      {
+        "seg_key": "149,130,51,59,87",
+        "seg_id": "seg_00168",
+        "freq": 1,
+        "assigned_label": "title",
+        "post_commodity": 0.0,
+        "post_title": 1.0,
+        "post_proper_name": 6.2912840412357646e-30
+      },
+      {
+        "seg_key": "149,130,51,59,87,389",
+        "seg_id": "seg_00169",
+        "freq": 1,
+        "assigned_label": "title",
+        "post_commodity": 0.0,
+        "post_title": 1.0,
+        "post_proper_name": 1.9949048721147965e-29
+      },
+      {
+        "seg_key": "149,130,51,98",
+        "seg_id": "seg_00171",
+        "freq": 1,
+        "assigned_label": "title",
+        "post_commodity": 0.0,
+        "post_title": 1.0,
+        "post_proper_name": 7.139429325286722e-31
+      },
+      {
+        "seg_key": "153,153",
+        "seg_id": "seg_00176",
+        "freq": 1,
+        "assigned_label": "title",
+        "post_commodity": 0.0,
+        "post_title": 1.0,
+        "post_proper_name": 3.4872524920484455e-31
+      },
+      {
+        "seg_key": "162,249,343",
+        "seg_id": "seg_00187",
+        "freq": 1,
+        "assigned_label": "title",
+        "post_commodity": 0.0,
+        "post_title": 1.0,
+        "post_proper_name": 5.323701483965135e-31
+      },
+      {
+        "seg_key": "162,249,65",
+        "seg_id": "seg_00192",
+        "freq": 1,
+        "assigned_label": "title",
+        "post_commodity": 0.0,
+        "post_title": 1.0,
+        "post_proper_name": 3.2679064424932968e-31
+      },
+      {
+        "seg_key": "162,249,67,343",
+        "seg_id": "seg_00193",
+        "freq": 1,
+        "assigned_label": "title",
+        "post_commodity": 0.0,
+        "post_title": 1.0,
+        "post_proper_name": 5.436752906425474e-31
+      },
+      {
+        "seg_key": "162,249,70",
+        "seg_id": "seg_00194",
+        "freq": 1,
+        "assigned_label": "title",
+        "post_commodity": 0.0,
+        "post_title": 1.0,
+        "post_proper_name": 1.5342196629415464e-30
+      },
+      {
+        "seg_key": "162,249,87",
+        "seg_id": "seg_00196",
+        "freq": 1,
+        "assigned_label": "title",
+        "post_commodity": 0.0,
+        "post_title": 1.0,
+        "post_proper_name": 4.489898373296454e-31
+      },
+      {
+        "seg_key": "162,249,98",
+        "seg_id": "seg_00197",
+        "freq": 1,
+        "assigned_label": "title",
+        "post_commodity": 0.0,
+        "post_title": 1.0,
+        "post_proper_name": 4.384277022788584e-32
+      },
+      {
+        "seg_key": "169,249",
+        "seg_id": "seg_00216",
+        "freq": 1,
+        "assigned_label": "title",
+        "post_commodity": 0.0,
+        "post_title": 1.0,
+        "post_proper_name": 4.720092178324929e-31
+      },
+      {
+        "seg_key": "169,249,343",
+        "seg_id": "seg_00218",
+        "freq": 1,
+        "assigned_label": "title",
+        "post_commodity": 0.0,
+        "post_title": 1.0,
+        "post_proper_name": 4.07419320923092e-31
+      },
+      {
+        "seg_key": "169,249,360,89,336",
+        "seg_id": "seg_00219",
+        "freq": 1,
+        "assigned_label": "title",
+        "post_commodity": 0.0,
+        "post_title": 1.0,
+        "post_proper_name": 3.610482736998156e-31
+      },
+      {
+        "seg_key": "169,249,389",
+        "seg_id": "seg_00220",
+        "freq": 1,
+        "assigned_label": "title",
+        "post_commodity": 0.0,
+        "post_title": 1.0,
+        "post_proper_name": 2.8701587405862504e-32
+      },
+      {
+        "seg_key": "169,249,59",
+        "seg_id": "seg_00221",
+        "freq": 1,
+        "assigned_label": "title",
+        "post_commodity": 0.0,
+        "post_title": 1.0,
+        "post_proper_name": 4.627854479416763e-31
+      },
+      {
+        "seg_key": "169,249,59,102",
+        "seg_id": "seg_00222",
+        "freq": 1,
+        "assigned_label": "title",
+        "post_commodity": 0.0,
+        "post_title": 1.0,
+        "post_proper_name": 5.196328546452214e-31
+      },
+      {
+        "seg_key": "169,249,72,70",
+        "seg_id": "seg_00224",
+        "freq": 1,
+        "assigned_label": "title",
+        "post_commodity": 0.0,
+        "post_title": 1.0,
+        "post_proper_name": 5.436752906425474e-31
+      },
+      {
+        "seg_key": "169,249,89,336",
+        "seg_id": "seg_00226",
+        "freq": 1,
+        "assigned_label": "title",
+        "post_commodity": 0.0,
+        "post_title": 1.0,
+        "post_proper_name": 2.051673773106958e-30
+      },
+      {
+        "seg_key": "17,100,343",
+        "seg_id": "seg_00231",
+        "freq": 1,
+        "assigned_label": "title",
+        "post_commodity": 0.0,
+        "post_title": 1.0,
+        "post_proper_name": 4.984349717682301e-31
+      }
+    ],
+    "proper_name": [
+      {
+        "seg_key": "99,81,233",
+        "seg_id": "seg_00743",
+        "freq": 1,
+        "assigned_label": "proper_name",
+        "post_commodity": 0.0,
+        "post_title": 0.0,
+        "post_proper_name": 1.0
+      },
+      {
+        "seg_key": "99,64,76",
+        "seg_id": "seg_00742",
+        "freq": 1,
+        "assigned_label": "proper_name",
+        "post_commodity": 0.0,
+        "post_title": 0.0,
+        "post_proper_name": 1.0
+      },
+      {
+        "seg_key": "99,64,336",
+        "seg_id": "seg_00741",
+        "freq": 1,
+        "assigned_label": "proper_name",
+        "post_commodity": 0.0,
+        "post_title": 0.0,
+        "post_proper_name": 1.0
+      },
+      {
+        "seg_key": "99,400,403",
+        "seg_id": "seg_00737",
+        "freq": 1,
+        "assigned_label": "proper_name",
+        "post_commodity": 0.0,
+        "post_title": 0.0,
+        "post_proper_name": 1.0
+      },
+      {
+        "seg_key": "99,400,197",
+        "seg_id": "seg_00736",
+        "freq": 1,
+        "assigned_label": "proper_name",
+        "post_commodity": 0.0,
+        "post_title": 0.0,
+        "post_proper_name": 1.0
+      },
+      {
+        "seg_key": "99,4",
+        "seg_id": "seg_00735",
+        "freq": 1,
+        "assigned_label": "proper_name",
+        "post_commodity": 0.0,
+        "post_title": 0.0,
+        "post_proper_name": 1.0
+      },
+      {
+        "seg_key": "99,395",
+        "seg_id": "seg_00732",
+        "freq": 1,
+        "assigned_label": "proper_name",
+        "post_commodity": 0.0,
+        "post_title": 0.0,
+        "post_proper_name": 1.0
+      },
+      {
+        "seg_key": "99,341,345",
+        "seg_id": "seg_00730",
+        "freq": 1,
+        "assigned_label": "proper_name",
+        "post_commodity": 0.0,
+        "post_title": 0.0,
+        "post_proper_name": 1.0
+      },
+      {
+        "seg_key": "99,206,341",
+        "seg_id": "seg_00708",
+        "freq": 1,
+        "assigned_label": "proper_name",
+        "post_commodity": 0.0,
+        "post_title": 0.0,
+        "post_proper_name": 1.0
+      },
+      {
+        "seg_key": "99,19,96,409",
+        "seg_id": "seg_00707",
+        "freq": 1,
+        "assigned_label": "proper_name",
+        "post_commodity": 0.0,
+        "post_title": 0.0,
+        "post_proper_name": 1.0
+      },
+      {
+        "seg_key": "99,182,336,28",
+        "seg_id": "seg_00706",
+        "freq": 1,
+        "assigned_label": "proper_name",
+        "post_commodity": 0.0,
+        "post_title": 0.0,
+        "post_proper_name": 1.0
+      },
+      {
+        "seg_key": "99,180",
+        "seg_id": "seg_00705",
+        "freq": 1,
+        "assigned_label": "proper_name",
+        "post_commodity": 0.0,
+        "post_title": 0.0,
+        "post_proper_name": 1.0
+      },
+      {
+        "seg_key": "99,177,186,87",
+        "seg_id": "seg_00704",
+        "freq": 1,
+        "assigned_label": "proper_name",
+        "post_commodity": 0.0,
+        "post_title": 0.0,
+        "post_proper_name": 1.0
+      },
+      {
+        "seg_key": "99,173",
+        "seg_id": "seg_00703",
+        "freq": 1,
+        "assigned_label": "proper_name",
+        "post_commodity": 0.0,
+        "post_title": 0.0,
+        "post_proper_name": 1.0
+      },
+      {
+        "seg_key": "99,155",
+        "seg_id": "seg_00702",
+        "freq": 1,
+        "assigned_label": "proper_name",
+        "post_commodity": 0.0,
+        "post_title": 0.0,
+        "post_proper_name": 1.0
+      },
+      {
+        "seg_key": "99,15,293",
+        "seg_id": "seg_00701",
+        "freq": 1,
+        "assigned_label": "proper_name",
+        "post_commodity": 0.0,
+        "post_title": 0.0,
+        "post_proper_name": 1.0
+      },
+      {
+        "seg_key": "98,391",
+        "seg_id": "seg_00700",
+        "freq": 1,
+        "assigned_label": "proper_name",
+        "post_commodity": 0.0,
+        "post_title": 0.0,
+        "post_proper_name": 1.0
+      },
+      {
+        "seg_key": "98,134,261,256,163",
+        "seg_id": "seg_00699",
+        "freq": 1,
+        "assigned_label": "proper_name",
+        "post_commodity": 0.0,
+        "post_title": 0.0,
+        "post_proper_name": 1.0
+      },
+      {
+        "seg_key": "97,402,379,319",
+        "seg_id": "seg_00697",
+        "freq": 1,
+        "assigned_label": "proper_name",
+        "post_commodity": 0.0,
+        "post_title": 0.0,
+        "post_proper_name": 1.0
+      },
+      {
+        "seg_key": "97,336,197",
+        "seg_id": "seg_00696",
+        "freq": 1,
+        "assigned_label": "proper_name",
+        "post_commodity": 0.0,
+        "post_title": 0.0,
+        "post_proper_name": 1.0
+      },
+      {
+        "seg_key": "97,293,400",
+        "seg_id": "seg_00695",
+        "freq": 1,
+        "assigned_label": "proper_name",
+        "post_commodity": 0.0,
+        "post_title": 0.0,
+        "post_proper_name": 1.0
+      },
+      {
+        "seg_key": "97,252,197,240,18",
+        "seg_id": "seg_00694",
+        "freq": 1,
+        "assigned_label": "proper_name",
+        "post_commodity": 0.0,
+        "post_title": 0.0,
+        "post_proper_name": 1.0
+      },
+      {
+        "seg_key": "97,214,302",
+        "seg_id": "seg_00693",
+        "freq": 1,
+        "assigned_label": "proper_name",
+        "post_commodity": 0.0,
+        "post_title": 0.0,
+        "post_proper_name": 1.0
+      },
+      {
+        "seg_key": "97,180",
+        "seg_id": "seg_00692",
+        "freq": 1,
+        "assigned_label": "proper_name",
+        "post_commodity": 0.0,
+        "post_title": 0.0,
+        "post_proper_name": 1.0
+      },
+      {
+        "seg_key": "97,127",
+        "seg_id": "seg_00690",
+        "freq": 1,
+        "assigned_label": "proper_name",
+        "post_commodity": 0.0,
+        "post_title": 0.0,
+        "post_proper_name": 1.0
+      },
+      {
+        "seg_key": "97,10,75",
+        "seg_id": "seg_00689",
+        "freq": 1,
+        "assigned_label": "proper_name",
+        "post_commodity": 0.0,
+        "post_title": 0.0,
+        "post_proper_name": 1.0
+      },
+      {
+        "seg_key": "9,99,267",
+        "seg_id": "seg_00686",
+        "freq": 1,
+        "assigned_label": "proper_name",
+        "post_commodity": 0.0,
+        "post_title": 0.0,
+        "post_proper_name": 1.0
+      },
+      {
+        "seg_key": "9,298,215",
+        "seg_id": "seg_00684",
+        "freq": 1,
+        "assigned_label": "proper_name",
+        "post_commodity": 0.0,
+        "post_title": 0.0,
+        "post_proper_name": 1.0
+      },
+      {
+        "seg_key": "9,264",
+        "seg_id": "seg_00682",
+        "freq": 1,
+        "assigned_label": "proper_name",
+        "post_commodity": 0.0,
+        "post_title": 0.0,
+        "post_proper_name": 1.0
+      },
+      {
+        "seg_key": "89,336,67",
+        "seg_id": "seg_00680",
+        "freq": 1,
+        "assigned_label": "proper_name",
+        "post_commodity": 0.0,
+        "post_title": 0.0,
+        "post_proper_name": 1.0
+      }
+    ]
+  },
+  "coverage_positions_estimate": {
+    "covered_positions": 1720,
+    "total_positions": 1720,
+    "pct": 100.0,
+    "sequences_with_any": 556,
+    "total_sequences": 557
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "entropy_similarity": 0.7336,
+  "order_similarity": 0.8102,
+  "semantic_similarity": 0.6667,
+  "structure_similarity": 0.5903,
+  "svo_similarity": 0.5903,
+  "overall_score_percent": 67.82,
+  "ivc_entropy": 1.3477,
+  "tamil_entropy": 0.9887,
+  "ivc_class_counts": {
+    "proper_name": 447,
+    "title": 191,
+    "commodity": 107
+  },
+  "tamil_class_counts": {
+    "title": 27,
+    "proper_name": 21
+  },
+  "ivc_seg_count": 90,
+  "tamil_seg_count": 48
+}
