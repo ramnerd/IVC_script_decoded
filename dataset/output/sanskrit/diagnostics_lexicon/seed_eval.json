@@ -1,0 +1,11 @@
+{
+  "commodity": null,
+  "title": null,
+  "proper_name": {
+    "precision_proxy": 1.0,
+    "recall_proxy": 1.0,
+    "tp": 9,
+    "pred_count": 9,
+    "seed_count": 9
+  }
+}

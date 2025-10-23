@@ -1,0 +1,23 @@
+{
+  "commodity": {
+    "precision_proxy": 1.0,
+    "recall_proxy": 0.8916666666666667,
+    "tp": 107,
+    "pred_count": 107,
+    "seed_count": 120
+  },
+  "title": {
+    "precision_proxy": 0.0,
+    "recall_proxy": 0.0,
+    "tp": 0,
+    "pred_count": 191,
+    "seed_count": 161
+  },
+  "proper_name": {
+    "precision_proxy": 0.738255033557047,
+    "recall_proxy": 0.5254777070063694,
+    "tp": 330,
+    "pred_count": 447,
+    "seed_count": 628
+  }
+}
