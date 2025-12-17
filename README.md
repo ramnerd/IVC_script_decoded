@@ -1,6 +1,3 @@
-This is a well-structured and comprehensive academic paper draft. I have reorganized and reformatted the content for maximum clarity, professional presentation, and adherence to standard academic paper conventions, using headings and a clearer flow of information.
-
----
 
 # Structural Validation of the IVC Corpus: A Computational Framework for Comparative Linguistics Based on Complete Decoded Seals
 
