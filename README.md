@@ -1,5 +1,6 @@
-
 # Structural Validation of the IVC Corpus: A Computational Framework for Comparative Linguistics Based on Complete Decoded Seals
+
+<img width="769" height="181" alt="image" src="https://github.com/user-attachments/assets/8708674f-b3d3-4d19-8f9e-bd9a94815dcc" />
 
 ## Abstract
 
@@ -10,6 +11,7 @@ Our methodology begins with advanced **Structural Feature Extraction**, utilizin
 The results provide overwhelming quantitative evidence that the IVC script's internal syntactic and lexical structures exhibit a **near-perfect correlation (98.84% overall score, 1.0 SVO similarity) with Old Tamil** (a Dravidian language), significantly differentiating it from the Indo-Aryan candidates. This structural validation establishes a statistically robust foundation for assigning semantic values. The subsequent **Hybrid Decoding** phase utilizes these validated grammatical biases to predict and reconstruct the most probable word sequences for the full 556-line IVC corpus, thereby transitioning the script from an unsolved structural puzzle to a source of textual data. We conclude that this framework offers a verifiable, scalable solution for the structural analysis of ancient, undeciphered writing systems.
 
 ---
+<img width="751" height="270" alt="image" src="https://github.com/user-attachments/assets/b48a1bdf-6be8-4c0a-a3c7-c27f0d478f20" />
 
 ## 1. Introduction
 
